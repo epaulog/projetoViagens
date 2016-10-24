@@ -5,12 +5,12 @@
  * 
  * Exercício Viagens
  * 
- * Classe Viagem
+ * Classe Prato
  * 
  */
 
 package projetoViagens;
 
-public class Viagem {
+public class Prato {
 
 }
